@@ -23,5 +23,11 @@
     <ClInclude Include="linmath.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Run.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -158,7 +158,9 @@
     <ClCompile Include="HelloTemplate.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="App.h" />
     <ClInclude Include="linmath.h" />
+    <ClInclude Include="Run.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
